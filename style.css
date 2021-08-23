@@ -1,3 +1,17 @@
 p {
   font-family: Arial, Helvetica, sans-serif;
 }
+h1 {
+  color: blueviolet;
+}
+.div {
+  margin: 100px, 300px, 100px, 75px;
+  border: solid orange;
+  max-height: 100;
+  max-width: 150;
+}
+
+.academy-badge {
+  max-height: 75px;
+  max-width: 100px;
+}
